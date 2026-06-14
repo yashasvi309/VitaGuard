@@ -1,4 +1,4 @@
-#  VitaGuard: Edge AI Biometric Triage & Autonomous Agent
+# Project VitaGuard: Edge AI Biometric Triage & Autonomous Agent
 
 Project VitaGuard is a functional Minimum Viable Product (MVP) developed for the FAR AWAY 2026 Hackathon (Agentic & Autonomous Systems Track).
 
@@ -10,7 +10,7 @@ Traditional "always-on" biometric AI models drain wearable batteries rapidly, wh
 
 Layer 1: The Edge TRM Detector (The "Think" Phase)
 
-At the core of our theoretical hardware implementation is an Adaptive Recursive Transformer (TRM).
+At the core of our theoretical hardware implementation is a Tiny Recursive Model (TRM).
 
 Dynamic Halting: For 99% of a user's day (when vitals are normal), the TRM uses dynamic halting to stop processing early in the neural network layers. This reduces compute load by 60-70%, drastically saving battery life.
 
@@ -32,7 +32,7 @@ This multi-purpose framework makes VitaGuard ideal for:
 
 Elderly Care: Personalized baseline learning prevents false alarms for individuals with naturally irregular vitals.
 
-Space & Aerospace: The dynamic halting TRM architecture is perfectly suited for low-power orbital hardware or spacesuit telemetry monitoring.
+Space & Aerospace: The tiny, low-compute footprint of the TRM architecture is perfectly suited for low-power orbital hardware or spacesuit telemetry monitoring.
 
 Disaster Zones: 100% offline edge processing ensures reliable triage data when cellular infrastructure is destroyed.
 
